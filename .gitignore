@@ -1,0 +1,12 @@
+
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+huaut/
+bububu.txt
+
+.idea/
+*.iml
+src/
+
